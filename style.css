@@ -1,0 +1,18 @@
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    list-style: none;
+    padding: 20px;
+
+}
+nav ul li a {
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: red;
+}
